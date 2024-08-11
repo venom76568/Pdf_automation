@@ -1,0 +1,23 @@
+[
+  {
+    "Student ID No": "28759",
+    "Name": "Harsh Agrawal",
+    "Enrollment No": "BT22ECE034",
+    "Mobile No": "8805214581",
+    "Faculty Advisor": "Amit Agrawal"
+  },
+  {
+    "Student ID No": "28751",
+    "Name": "Parakh Agrawal",
+    "Enrollment No": "BT22ECE085",
+    "Mobile No": "8805214155",
+    "Faculty Advisor": "Amit Shah"
+  },
+  {
+    "Student ID No": "28451",
+    "Name": "Gautam Ranka",
+    "Enrollment No": "BT22ECE049",
+    "Mobile No": "8805248525",
+    "Faculty Advisor": "Raj"
+  }
+]
