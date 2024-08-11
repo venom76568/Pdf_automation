@@ -5,5 +5,5 @@ This code automates the filling pdf irrespective of format of blanks in the docu
 2) pdf_automate.py also does the same work but the difference is that in this code, there is no conversion of pdf to word, in this text is extracted from the file and then it is searched in JSON file and then if it is found as key, it appends the value in front of key and returns the pdf, but the problem in this code is that
 a)Text is extracted successfully from the file but while recreating pdf file with the key and value pair, I dont know why but the output files are corrupted.
 
- #how to use both the codes
+ #how to use both the codes: 
 Replace your document in the form of pdf with the form2.pdf and also change the template path in the code to your pdf path and run the code you will get your pdfs as a result in the newy created folder output_pdfs.
