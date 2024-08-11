@@ -6,4 +6,5 @@ This code automates the filling pdf irrespective of format of blanks in the docu
 a)Text is extracted successfully from the file but while recreating pdf file with the key and value pair, I dont know why but the output files are corrupted.
 
  #how to use both the codes : 
-Replace your document in the form of pdf with the form2.pdf and also change the template path in the code to your pdf path and run the code you will get your pdfs as a result in the newy created folder output_pdfs.
+1)Replace your document in the form of pdf with the form2.pdf and also change the template path in the code to your pdf path and run the code you will get your pdfs as a result in the newy created folder output_pdfs.
+2)Change the data in the JSON file and replace key,value pairs with your data, where keys are the words in front of which information is to be filled and value is the information you need to fill in the blanks.
